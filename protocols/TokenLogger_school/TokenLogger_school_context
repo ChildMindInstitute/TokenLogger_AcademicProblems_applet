@@ -3,7 +3,7 @@
         "@version": 1.1,
         "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_school_applet/master/activities/",
         "TokenActivity_school_schema": {
-            "@id": "activity_path:TokenActivity/TokenActivity_school_schema",
+            "@id": "activity_path:TokenActivity_school/TokenActivity_school_schema",
             "@type": "@id"
         }
     }
