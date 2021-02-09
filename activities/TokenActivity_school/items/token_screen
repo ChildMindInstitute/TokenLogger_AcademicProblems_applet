@@ -19,30 +19,36 @@
         "choices": [{
             "@type": "schema:option",
             "schema:name": "Setting a 15 minute timer for their break after school ends",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/break_time.png",
             "schema:value": 1
         },
         {
             "schema:name": "Starting homework immediately after break timer ends.",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/homework_time.png",
             "@type": "schema:option",
             "schema:value": 1
         },
         {
             "schema:name": "Reading a book for 15 minutes using the timer.",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/reading_time.png",
             "@type": "schema:option",
             "schema:value": 1
         },
         {
             "schema:name": "Working on Math for 30 minutes using the timer.",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/math_time.png",
             "@type": "schema:option",
             "schema:value": 1
         },
         {
             "schema:name": "Working on Language Review for 30 minutes using the timer.",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/language_time.png",
             "@type": "schema:option",
             "schema:value": 1
         },
         {
             "schema:name": "Showing parents completed work and asking for help finishing it if needed.",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/parent_help.png",
             "@type": "schema:option",
             "schema:value": 1
         }]
